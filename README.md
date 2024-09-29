@@ -1,2 +1,3 @@
-# maya-tools
-A series of small tools with various functionalities for use in Autodesk Maya.
+# <b>Maya Tools</b>
+
+A series of tools of various function for use in Autodesk Maya.
