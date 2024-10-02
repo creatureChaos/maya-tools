@@ -6,6 +6,9 @@ A series of tools of various function for use in Autodesk Maya.
 For animation purposes.<br>
 Paste the animation of a controller to a series of other controllers with and adjustable time offset. 
 
+<h2>autoRigAsset</h2>
+Quickly create simple two controller rigs for assets. Ideal for setDress/layout.<br>Automatically adjusts controllers to geometry size. Includes color options for controllers. 
+
 <h2>dividerAttr</h2>
 For rigging purposes.<br>
 create a divider attribute in the channelBox to separate elements. For aesthetic and legibility purposes. 
